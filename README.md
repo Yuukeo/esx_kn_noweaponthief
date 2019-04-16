@@ -1,2 +1,2 @@
 # noweaponthief
-This script blocks the possibility of recovering a weapon in a vehicle
+I advise you to take the new version of this script.
